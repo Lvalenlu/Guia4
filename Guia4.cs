@@ -5,7 +5,7 @@ using System.Diagnostics;
 
 //Hecho por Laura Valentina Bustos Henao
 
-public class Relleno : MonoBehaviour
+public class Guia4 : MonoBehaviour
 {
     Texture2D tex;
     float Height = 280, Width = 280;
